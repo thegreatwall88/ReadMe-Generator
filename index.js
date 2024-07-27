@@ -40,6 +40,16 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'image',
+        message: 'Provide the path to an image (or leave blank):',
+    },
+    {
+        type: 'input',
+        name: 'video',
+        message: 'Provide the link to a video (or leave blank):',
+    },
+    {
+        type: 'input',
         name: 'github',
         message: 'Enter your GitHub username:',
     },

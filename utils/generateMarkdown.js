@@ -88,6 +88,13 @@ ${data.tests}
 
 ${renderLicenseSection(data.license)}
 
+## Media
+### Example Photo
+![Example Image](${data.image})
+
+### Example Video
+[Watch the Video](${data.video})
+
 ## Questions
 If you have any questions, please reach out to me:
 

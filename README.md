@@ -1,9 +1,9 @@
-# Readme Generator
+# wedas
 
-![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-a program to auto genarate readme file based on input from user
+dsadsa
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,23 +14,30 @@ a program to auto genarate readme file based on input from user
 - [Questions](#questions)
 
 ## Installation
-need to npm i inquirer@8.2.4
+dsdadsad
 
 ## Usage
-use to auto generate readme file
+sdadasd
 
 ## Contributing
-can be improved to validate input information
+sda
 
 ## Tests
-node index
+dasdsada
 
 ## License
 
-This project is licensed under the BSD 3-Clause license. For more information, see the [license documentation](https://opensource.org/licenses/BSD-3-Clause).
+This project is licensed under the MIT license. For more information, see the [license documentation](https://opensource.org/licenses/MIT).
+
+## Media
+### Example Photo
+![Example Image](./image/terminal.png)
+
+### Example Video
+[Watch the Video]()
 
 ## Questions
 If you have any questions, please reach out to me:
 
-GitHub: [thegreatwall88](https://github.com/thegreatwall88)
-Email: thegreatwall88@gmail.com
+GitHub: [dasda](https://github.com/dasda)
+Email: sada
