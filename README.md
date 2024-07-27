@@ -1,9 +1,9 @@
-# Testing
+# ReadMe Generator
 
-![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache 2.0-blue.svg)
 
 ## Description
-This is a test
+auto generate readme file
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,20 +14,20 @@ This is a test
 - [Questions](#questions)
 
 ## Installation
-none
+run npm i inquirer
 
 ## Usage
-to test
+create readme file
 
 ## Contributing
-none
+khoi
 
 ## Tests
-none
+run npm i to install
 
 ## License
 
-This project is licensed under the GPLv3 license. For more information, see the [license documentation](https://www.gnu.org/licenses/gpl-3.0).
+This project is licensed under the Apache 2.0 license. For more information, see the [license documentation](https://opensource.org/licenses/Apache-2.0).
 
 ## Questions
 If you have any questions, please reach out to me:
