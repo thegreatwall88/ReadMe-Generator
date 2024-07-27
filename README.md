@@ -1,9 +1,9 @@
-# ReadMe Generator
+# Test
 
-![License: Apache 2.0](https://img.shields.io/badge/License-Apache 2.0-blue.svg)
+![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD 3-Clause-blue.svg)
 
 ## Description
-auto generate readme file
+this is test
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,23 +14,23 @@ auto generate readme file
 - [Questions](#questions)
 
 ## Installation
-run npm i inquirer
+sakasflsakflaskflsafka
 
 ## Usage
-create readme file
+lsafkaslfkaslfkasflskfas
 
 ## Contributing
-khoi
+aslfksalfklasfksalfa
 
 ## Tests
-run npm i to install
+slafkalsfaskflasfkaslfsak
 
 ## License
 
-This project is licensed under the Apache 2.0 license. For more information, see the [license documentation](https://opensource.org/licenses/Apache-2.0).
+This project is licensed under the BSD 3-Clause license. For more information, see the [license documentation](https://opensource.org/licenses/BSD-3-Clause).
 
 ## Questions
 If you have any questions, please reach out to me:
 
-GitHub: [thegreatwall88](https://github.com/thegreatwall88)
-Email: thegreatwall88@gmail.com
+GitHub: [slajksl](https://github.com/slajksl)
+Email: sdlaksaldkal@gmail.com
