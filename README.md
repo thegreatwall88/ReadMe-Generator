@@ -1,9 +1,9 @@
-# Test
+# test
 
-![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD 3-Clause-blue.svg)
+![License](https://img.shields.io/badge/License-Apache 2.0-blue.svg)(https://opensource.org/licenses/Apache 2.0)
 
 ## Description
-this is test
+this is a test
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,23 +14,23 @@ this is test
 - [Questions](#questions)
 
 ## Installation
-sakasflsakflaskflsafka
+testing apache
 
 ## Usage
-lsafkaslfkaslfkasflskfas
+apache
 
 ## Contributing
-aslfksalfklasfksalfa
+apache
 
 ## Tests
-slafkalsfaskflasfkaslfsak
+apache
 
 ## License
 
-This project is licensed under the BSD 3-Clause license. For more information, see the [license documentation](https://opensource.org/licenses/BSD-3-Clause).
+This project is licensed under the Apache 2.0 license. For more information, see the [license documentation](https://opensource.org/licenses/Apache-2.0).
 
 ## Questions
 If you have any questions, please reach out to me:
 
-GitHub: [slajksl](https://github.com/slajksl)
-Email: sdlaksaldkal@gmail.com
+GitHub: [asadas](https://github.com/asadas)
+Email: sadasda@gmail.com
