@@ -1,9 +1,9 @@
-# ewfsdf
+# dfsd
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 ## Description
-dfsfs
+fdsf
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,23 +14,23 @@ dfsfs
 - [Questions](#questions)
 
 ## Installation
-dfsdfdsf
+sdfs
 
 ## Usage
-dfsdfsdf
+fsd
 
 ## Contributing
-dfsfs
+dsfsfs
 
 ## Tests
-fdsfds
+dfsf
 
 ## License
 
-This project is licensed under the MIT license. For more information, see the [license documentation](https://opensource.org/licenses/MIT).
+This project is licensed under the GPLv3 license. For more information, see the [license documentation](https://www.gnu.org/licenses/gpl-3.0).
 
 ## Questions
 If you have any questions, please reach out to me:
 
-GitHub: [dsfsdf](https://github.com/dsfsdf)
+GitHub: [dfsdfs](https://github.com/dfsdfs)
 Email: dsfs
