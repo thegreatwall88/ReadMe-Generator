@@ -3,7 +3,11 @@
 function renderLicenseBadge(license) {
   if (license === 'None') {
       return '';
-  }       
+  }  
+  const apache = 'Apache_2.0';
+  if (license === 'Apache_2.0'){
+    return `![License](https://img.shields.io/badge/License-${apache}-blue.svg)(https://opensource.org/licenses/${license})`;
+  }     
   return `![License](https://img.shields.io/badge/License-${license}-blue.svg)(https://opensource.org/licenses/${license})`;
 }
 
