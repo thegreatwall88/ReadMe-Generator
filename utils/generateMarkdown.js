@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
   if (license === 'None') {
       return '';
-  }
+  }       
   return `![License](https://img.shields.io/badge/License-${license}-blue.svg)(https://opensource.org/licenses/${license})`;
 }
 
