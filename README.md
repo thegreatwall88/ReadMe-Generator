@@ -1,9 +1,9 @@
-# dfsd
+# Readme Generator
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
 
 ## Description
-fdsf
+a program to auto genarate readme file based on input from user
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,23 +14,23 @@ fdsf
 - [Questions](#questions)
 
 ## Installation
-sdfs
+need to npm i inquirer@8.2.4
 
 ## Usage
-fsd
+use to auto generate readme file
 
 ## Contributing
-dsfsfs
+can be improved to validate input information
 
 ## Tests
-dfsf
+node index
 
 ## License
 
-This project is licensed under the GPLv3 license. For more information, see the [license documentation](https://www.gnu.org/licenses/gpl-3.0).
+This project is licensed under the BSD 3-Clause license. For more information, see the [license documentation](https://opensource.org/licenses/BSD-3-Clause).
 
 ## Questions
 If you have any questions, please reach out to me:
 
-GitHub: [dfsdfs](https://github.com/dfsdfs)
-Email: dsfs
+GitHub: [thegreatwall88](https://github.com/thegreatwall88)
+Email: thegreatwall88@gmail.com
