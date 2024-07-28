@@ -40,8 +40,13 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'image',
+        name: 'image1',
         message: 'Provide the path to an image (or leave blank):',
+    },
+    {
+        type: 'input',
+        name: 'image2',
+        message: 'Provide the path to another image (or leave blank):',
     },
     {
         type: 'input',

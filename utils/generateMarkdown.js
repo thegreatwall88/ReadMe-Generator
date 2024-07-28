@@ -90,7 +90,8 @@ ${renderLicenseSection(data.license)}
 
 ## Media
 ### Example Photo
-![Example Image](${data.image})
+![Example Image](${data.image1})
+![Example Image](${data.image2})
 
 ### Example Video
 [Watch the Video](${data.video})
