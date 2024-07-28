@@ -35,7 +35,7 @@ This project is licensed under the Apache-2.0 license. For more information, see
 ![Example Image](./assets/image/git.png)
 
 ### Example Video
-[Watch the Video](./assets/video/demo.webm)
+[Watch the Video](./assets/video/demo.gif)
 
 ## Questions
 If you have any questions, please reach out to me:
